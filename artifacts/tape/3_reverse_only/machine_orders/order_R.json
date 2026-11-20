@@ -1,0 +1,55 @@
+{
+  "format": "solo-punch-order-v1",
+  "order_id": "R",
+  "version_id": 0,
+  "body_sha256": "8655173af1ec080de2dae0c6d0a7a2da5ade8b2cf8117645da18b90aaefd0ee2",
+  "body_hex": "0303",
+  "length": 2,
+  "allow_reverse": true,
+  "material": {
+    "type": "old",
+    "blank_id": "F1",
+    "orientation": "reverse",
+    "window_start": 0,
+    "window_end": 2,
+    "blank_length": 2,
+    "scrap_pitches": 0,
+    "added_holes": 2
+  },
+  "existing_holes": [
+    [
+      0,
+      6
+    ],
+    [
+      1,
+      7
+    ]
+  ],
+  "punches": [
+    [
+      0,
+      7
+    ],
+    [
+      1,
+      6
+    ]
+  ],
+  "target_holes": [
+    [
+      0,
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      1,
+      [
+        0,
+        1
+      ]
+    ]
+  ]
+}

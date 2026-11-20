@@ -1,0 +1,32 @@
+{
+  "format": "solo-punch-order-v1",
+  "order_id": "X",
+  "version_id": 0,
+  "body_sha256": "084fed08b978af4d7d196a7446a86b58009e636b611db16211b65a9aadff29c5",
+  "body_hex": "03",
+  "length": 1,
+  "allow_reverse": false,
+  "material": {
+    "type": "new"
+  },
+  "existing_holes": [],
+  "punches": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "target_holes": [
+    [
+      0,
+      [
+        0,
+        1
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "objective": {
+    "new_tapes": 0,
+    "total_punches": 1,
+    "scrapped_pitches": 0
+  },
+  "allocations": [
+    {
+      "format": "solo-punch-order-v1",
+      "order_id": "X",
+      "version_id": 0,
+      "body_sha256": "084fed08b978af4d7d196a7446a86b58009e636b611db16211b65a9aadff29c5",
+      "body_hex": "03",
+      "length": 1,
+      "allow_reverse": false,
+      "material": {
+        "type": "old",
+        "blank_id": "V",
+        "orientation": "forward",
+        "window_start": 0,
+        "window_end": 1,
+        "blank_length": 1,
+        "scrap_pitches": 0,
+        "added_holes": 1
+      },
+      "existing_holes": [
+        [
+          0,
+          1
+        ]
+      ],
+      "punches": [
+        [
+          0,
+          0
+        ]
+      ],
+      "target_holes": [
+        [
+          0,
+          [
+            0,
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "format": "solo-punch-order-v1",
+      "order_id": "Y",
+      "version_id": 0,
+      "body_sha256": "4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a",
+      "body_hex": "01",
+      "length": 1,
+      "allow_reverse": false,
+      "material": {
+        "type": "old",
+        "blank_id": "U",
+        "orientation": "forward",
+        "window_start": 0,
+        "window_end": 1,
+        "blank_length": 1,
+        "scrap_pitches": 0,
+        "added_holes": 0
+      },
+      "existing_holes": [
+        [
+          0,
+          0
+        ]
+      ],
+      "punches": [],
+      "target_holes": [
+        [
+          0,
+          [
+            0
+          ]
+        ]
+      ]
+    }
+  ]
+}

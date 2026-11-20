@@ -1,0 +1,58 @@
+{
+  "format": "solo-hole-spectrum-v1",
+  "version_id": 0,
+  "body_sha256": "8655173af1ec080de2dae0c6d0a7a2da5ade8b2cf8117645da18b90aaefd0ee2",
+  "final_mode": 0,
+  "text": "\u0003\u0003",
+  "length": 2,
+  "segments": [
+    {
+      "kind": "char",
+      "start": 0,
+      "end": 1,
+      "char_index": 0,
+      "char": "\u0003",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 1,
+      "end": 2,
+      "char_index": 1,
+      "char": "\u0003",
+      "mode": 0
+    }
+  ],
+  "pitch_segment": [
+    0,
+    1
+  ],
+  "pitches": [
+    {
+      "pitch": 0,
+      "byte": "03",
+      "holes": [
+        0,
+        1
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 0
+      }
+    },
+    {
+      "pitch": 1,
+      "byte": "03",
+      "holes": [
+        0,
+        1
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 1
+      }
+    }
+  ]
+}

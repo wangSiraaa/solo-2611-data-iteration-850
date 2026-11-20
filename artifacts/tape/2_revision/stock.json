@@ -1,0 +1,12 @@
+{
+  "blanks": [
+    {
+      "blank_id": "Z1",
+      "pitches_hex": "5a000000"
+    },
+    {
+      "blank_id": "L1",
+      "pitches_hex": "0a000402010604030401040503000f0b000f0f0f000e0000"
+    }
+  ]
+}

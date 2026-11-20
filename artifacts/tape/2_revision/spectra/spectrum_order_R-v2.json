@@ -1,0 +1,741 @@
+{
+  "format": "solo-hole-spectrum-v1",
+  "version_id": 2,
+  "body_sha256": "196840f299204978bb5a7d68d2788c642ace24a6f15dcf66bfdac7104a086e05",
+  "final_mode": 0,
+  "text": "* DRAFTstatus ok ÿ.",
+  "length": 22,
+  "segments": [
+    {
+      "kind": "char",
+      "start": 0,
+      "end": 1,
+      "char_index": 0,
+      "char": "*",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 1,
+      "end": 2,
+      "char_index": 1,
+      "char": " ",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 2,
+      "end": 3,
+      "char_index": 2,
+      "char": "D",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 3,
+      "end": 4,
+      "char_index": 3,
+      "char": "R",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 4,
+      "end": 5,
+      "char_index": 4,
+      "char": "A",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 5,
+      "end": 6,
+      "char_index": 5,
+      "char": "F",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 6,
+      "end": 7,
+      "char_index": 6,
+      "char": "T",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 7,
+      "end": 8,
+      "char_index": 7,
+      "char": "s",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 8,
+      "end": 9,
+      "char_index": 8,
+      "char": "t",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 9,
+      "end": 10,
+      "char_index": 9,
+      "char": "a",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 10,
+      "end": 11,
+      "char_index": 10,
+      "char": "t",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 11,
+      "end": 12,
+      "char_index": 11,
+      "char": "u",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 12,
+      "end": 13,
+      "char_index": 12,
+      "char": "s",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 13,
+      "end": 14,
+      "char_index": 13,
+      "char": " ",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 14,
+      "end": 15,
+      "char_index": 14,
+      "char": "o",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 15,
+      "end": 16,
+      "char_index": 15,
+      "char": "k",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 16,
+      "end": 17,
+      "char_index": 16,
+      "char": " ",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 17,
+      "end": 19,
+      "char_index": 17,
+      "char": "ÿ",
+      "mode": 0
+    },
+    {
+      "kind": "char",
+      "start": 21,
+      "end": 22,
+      "char_index": 18,
+      "char": ".",
+      "mode": 0
+    },
+    {
+      "kind": "switch",
+      "start": 19,
+      "end": 21,
+      "from_mode": 0,
+      "to_mode": 0,
+      "raw": "ff00"
+    }
+  ],
+  "pitch_segment": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    17,
+    19,
+    19,
+    18
+  ],
+  "pitches": [
+    {
+      "pitch": 0,
+      "byte": "2a",
+      "holes": [
+        1,
+        3,
+        5
+      ],
+      "origin": {
+        "t": "new_text",
+        "v": 2,
+        "p": 0,
+        "batch": 1,
+        "old_char_start": 0,
+        "old_char_end": 0,
+        "inserted_text": "*",
+        "inner_byte": 0
+      }
+    },
+    {
+      "pitch": 1,
+      "byte": "20",
+      "holes": [
+        5
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 7,
+        "via": [
+          [
+            1,
+            7
+          ],
+          [
+            0,
+            7
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 2,
+      "byte": "44",
+      "holes": [
+        2,
+        6
+      ],
+      "origin": {
+        "t": "new_text",
+        "v": 1,
+        "p": 8,
+        "batch": 0,
+        "old_char_start": 8,
+        "old_char_end": 9,
+        "inserted_text": "DRAFT",
+        "inner_byte": 0,
+        "via": [
+          [
+            1,
+            8
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 3,
+      "byte": "52",
+      "holes": [
+        1,
+        4,
+        6
+      ],
+      "origin": {
+        "t": "new_text",
+        "v": 1,
+        "p": 9,
+        "batch": 0,
+        "old_char_start": 8,
+        "old_char_end": 9,
+        "inserted_text": "DRAFT",
+        "inner_byte": 1,
+        "via": [
+          [
+            1,
+            9
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 4,
+      "byte": "41",
+      "holes": [
+        0,
+        6
+      ],
+      "origin": {
+        "t": "new_text",
+        "v": 1,
+        "p": 10,
+        "batch": 0,
+        "old_char_start": 8,
+        "old_char_end": 9,
+        "inserted_text": "DRAFT",
+        "inner_byte": 2,
+        "via": [
+          [
+            1,
+            10
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 5,
+      "byte": "46",
+      "holes": [
+        1,
+        2,
+        6
+      ],
+      "origin": {
+        "t": "new_text",
+        "v": 1,
+        "p": 11,
+        "batch": 0,
+        "old_char_start": 8,
+        "old_char_end": 9,
+        "inserted_text": "DRAFT",
+        "inner_byte": 3,
+        "via": [
+          [
+            1,
+            11
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 6,
+      "byte": "54",
+      "holes": [
+        2,
+        4,
+        6
+      ],
+      "origin": {
+        "t": "new_text",
+        "v": 1,
+        "p": 12,
+        "batch": 0,
+        "old_char_start": 8,
+        "old_char_end": 9,
+        "inserted_text": "DRAFT",
+        "inner_byte": 4,
+        "via": [
+          [
+            1,
+            12
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 7,
+      "byte": "73",
+      "holes": [
+        0,
+        1,
+        4,
+        5,
+        6
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 17,
+        "via": [
+          [
+            1,
+            23
+          ],
+          [
+            0,
+            17
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 8,
+      "byte": "74",
+      "holes": [
+        2,
+        4,
+        5,
+        6
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 18,
+        "via": [
+          [
+            1,
+            24
+          ],
+          [
+            0,
+            18
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 9,
+      "byte": "61",
+      "holes": [
+        0,
+        5,
+        6
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 19,
+        "via": [
+          [
+            1,
+            25
+          ],
+          [
+            0,
+            19
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 10,
+      "byte": "74",
+      "holes": [
+        2,
+        4,
+        5,
+        6
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 20,
+        "via": [
+          [
+            1,
+            26
+          ],
+          [
+            0,
+            20
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 11,
+      "byte": "75",
+      "holes": [
+        0,
+        2,
+        4,
+        5,
+        6
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 21,
+        "via": [
+          [
+            1,
+            27
+          ],
+          [
+            0,
+            21
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 12,
+      "byte": "73",
+      "holes": [
+        0,
+        1,
+        4,
+        5,
+        6
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 22,
+        "via": [
+          [
+            1,
+            28
+          ],
+          [
+            0,
+            22
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 13,
+      "byte": "20",
+      "holes": [
+        5
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 23,
+        "via": [
+          [
+            1,
+            29
+          ],
+          [
+            0,
+            23
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 14,
+      "byte": "6f",
+      "holes": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 24,
+        "via": [
+          [
+            1,
+            30
+          ],
+          [
+            0,
+            24
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 15,
+      "byte": "6b",
+      "holes": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 25,
+        "via": [
+          [
+            1,
+            31
+          ],
+          [
+            0,
+            25
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 16,
+      "byte": "20",
+      "holes": [
+        5
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 26,
+        "via": [
+          [
+            1,
+            32
+          ],
+          [
+            0,
+            26
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 17,
+      "byte": "ff",
+      "holes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 27,
+        "via": [
+          [
+            1,
+            33
+          ],
+          [
+            0,
+            27
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 18,
+      "byte": "ff",
+      "holes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 28,
+        "via": [
+          [
+            1,
+            34
+          ],
+          [
+            0,
+            28
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 19,
+      "byte": "ff",
+      "holes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 29,
+        "via": [
+          [
+            1,
+            35
+          ],
+          [
+            0,
+            29
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 20,
+      "byte": "00",
+      "holes": [],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 30,
+        "via": [
+          [
+            1,
+            36
+          ],
+          [
+            0,
+            30
+          ]
+        ]
+      }
+    },
+    {
+      "pitch": 21,
+      "byte": "2e",
+      "holes": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "origin": {
+        "t": "original",
+        "v": 0,
+        "p": 31,
+        "via": [
+          [
+            1,
+            37
+          ],
+          [
+            0,
+            31
+          ]
+        ]
+      }
+    }
+  ]
+}
